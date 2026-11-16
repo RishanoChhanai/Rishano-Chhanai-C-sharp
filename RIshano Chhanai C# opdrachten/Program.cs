@@ -10,8 +10,8 @@ namespace RIshano_Chhanai_C__opdrachten
     {
         static void Main(string[] args)
         {
-            Opdracht1 opdracht1 = new Opdracht1();
-            opdracht1.Uitvoer();
+            Opdracht2 opdracht2 = new Opdracht2();
+            opdracht2.Uitvoer();
         }
     }
 }
