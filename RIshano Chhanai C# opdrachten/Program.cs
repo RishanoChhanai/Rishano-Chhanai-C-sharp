@@ -10,7 +10,7 @@ namespace RIshano_Chhanai_C__opdrachten
     {
         static void Main(string[] args)
         {
-            new Opdracht2().Start();
+            new Opdracht3().Start();
         }
     }
 }
